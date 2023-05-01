@@ -4,5 +4,5 @@
 ```
 ### Путь для получения страниц по API:
 ```
-<server>/api/get_content/?space_name=123&page_name1=456
+<server>/api/get_content/?space_name=<Имя пространства>&page_name=<Имя страницы>
 ```
